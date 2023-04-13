@@ -22,3 +22,14 @@ a {
     color: Aquamarine;
     font-size: 16px;
 }
+
+h3 {
+    color: grey;
+    font-size: 21px;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
